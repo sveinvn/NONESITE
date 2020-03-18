@@ -1,4 +1,4 @@
-#NONESITE
+# NONESITE
 This is a repository for Norwegian Neolithic sites (NONESITE). Please reference this database as: Nielsen, Svein Vatsvåg 2020: NONESITE18032020 (or the correct version), https://github.com/sveinvn/NONESITE.git.
 
 All sites have been collected and organized by Svein Vatsvåg Nielsen. The dataset includes sites used in the published research paper Nielsen, S. V., Solheim, S. and P. Persson, De-Neolithisation in southern Norway inferred from statistical modelling of radiocarbon dates, Journal of Anthropological Archaeology 53, pp. 82-91.
